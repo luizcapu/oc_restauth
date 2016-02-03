@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>restauth</id>
+    <name>Rest Auth</name>
+    <description>REST Auth</description>
+    <licence>AGPL</licence>
+    <author>luizcapu</author>
+    <version>0.0.1</version>
+    <namespace>RestAuth</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8" />
+    </dependencies>
+</info>
